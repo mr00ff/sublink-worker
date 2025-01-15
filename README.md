@@ -3,7 +3,7 @@
   <h5><i>Serverless 自部署订阅转换工具最佳实践</i></h5>
   
   <a href="https://trendshift.io/repositories/12291" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12291" alt="7Sageer%2Fsublink-worker | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/12291" alt="mr00ff%2Fsublink-worker | Trendshift" width="250" height="55"/>
   </a>
   
   <!-- <p>
@@ -12,7 +12,7 @@
   <br>
 
   <p>
-    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/7Sageer/sublink-worker">
+    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/mr00ff/sublink-worker">
       <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers"/>
     </a>
   </p>
@@ -108,4 +108,4 @@
 
 感谢所有为本项目点亮 Star 的朋友们！🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date)](https://star-history.com/#7Sageer/sublink-worker&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mr00ff/sublink-worker&type=Date)](https://star-history.com/#mr00ff/sublink-worker&Date)
